@@ -17,7 +17,7 @@ style="width:100%;max-width:960px"></div>
 <!DOCTYPE html>
 <html>
 <head>
-<title>Hello World!</tile>
+<title>Hello World klllk!</title>
 <link rel="stylesheet" href="bluestyle.css">
 </head>
 <body>
